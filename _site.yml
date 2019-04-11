@@ -21,6 +21,10 @@ navbar:
 output:
   html_document:
     theme: yeti
+    lib_dir: site_lib
+    
+output_dir: "."
+
 
 
 
