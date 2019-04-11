@@ -1,0 +1,27 @@
+name: "my-website"
+navbar:
+  title: "🧠📊🧬Giuseppe G. Miranda"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "CV"
+      href: cv.Rmf.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: email.html
+    - icon: fa-github fa-lg
+      href: https://github.com/giuseppemiranda
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/giusepmiranda
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/giuseppe-miranda-48331620/
+    - icon: fa-newspaper-o fa-lg
+      href: https://www.researchgate.net/profile/Giuseppe_Miranda
+      
+output:
+  html_document:
+    theme: yeti
+    css: 'styles.css'
+      
+      
+      
