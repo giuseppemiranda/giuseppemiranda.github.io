@@ -1,5 +1,4 @@
 ---
 title: "About Me"
 ---
-# Filler Content from CVL site (temp)
 ### Giuseppe graduated from the University of Dayton with a Bachelor of Science in Psychology. At UD, Giuseppe worked as a research assistant under Dr. Susan T. Davis studying memory, vigilance, and aesthetics. Giuseppe also interned under Dr. Greg Funke in Applied Neuroscience at Wright-Patterson Air Force Base studying team cognition and synchronicity. Giuseppe is interested in human brain aging and how cognitive functioning can be preserved as we age. Specifically, Giuseppe is interested in neuroimaging and how changes in brain structure impact cognition in aging. Giuseppe enjoys playing sports, traveling, painting, watching his Cleveland sports teams, and spending time with friends and family.

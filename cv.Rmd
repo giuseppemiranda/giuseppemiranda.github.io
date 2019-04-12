@@ -1,8 +1,6 @@
 ---
 title: "CV"
 ---
-### to be uploaded once updated
-
 <center>
 ![](cv/ggm1.png){
 width=100% }
