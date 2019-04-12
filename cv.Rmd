@@ -2,3 +2,33 @@
 title: "CV"
 ---
 ### to be uploaded once updated
+
+<center>
+![](cv/ggm1.jpg){
+width=50% }
+</center>
+
+<center>
+![](cv/ggm2.jpg){
+width=50% }
+</center>
+
+<center>
+![](cv/ggm3.jpg){
+width=50% }
+</center>
+
+<center>
+![](cv/ggm4.jpg){
+width=50% }
+</center>
+
+<center>
+![](cv/ggm5.jpg){
+width=50% }
+</center>
+
+<center>
+![](cv/ggm6.jpg){
+width=50% }
+</center>
