@@ -5,30 +5,30 @@ title: "CV"
 
 <center>
 ![](cv/ggm1.jpg){
-width=50% }
+width=100% }
 </center>
 
 <center>
 ![](cv/ggm2.jpg){
-width=50% }
+width=100% }
 </center>
 
 <center>
 ![](cv/ggm3.jpg){
-width=50% }
+width=100% }
 </center>
 
 <center>
 ![](cv/ggm4.jpg){
-width=50% }
+width=100% }
 </center>
 
 <center>
 ![](cv/ggm5.jpg){
-width=50% }
+width=100% }
 </center>
 
 <center>
 ![](cv/ggm6.jpg){
-width=50% }
+width=100% }
 </center>
