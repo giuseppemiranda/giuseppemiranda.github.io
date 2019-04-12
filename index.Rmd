@@ -8,6 +8,10 @@ I am currently working on updating my website, content to be posted shortly!
 ---
 ---
 
+<center>
+![](ggm2.png){
+width=50% }
+</center>
 
-<img src="ggm.jpeg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+
 
