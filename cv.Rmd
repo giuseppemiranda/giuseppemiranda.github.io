@@ -4,31 +4,31 @@ title: "CV"
 ### to be uploaded once updated
 
 <center>
-![](cv/ggm1.jpg){
+![](cv/ggm1.png){
 width=100% }
 </center>
 
 <center>
-![](cv/ggm2.jpg){
+![](cv/ggm2.png){
 width=100% }
 </center>
 
 <center>
-![](cv/ggm3.jpg){
+![](cv/ggm3.png){
 width=100% }
 </center>
 
 <center>
-![](cv/ggm4.jpg){
+![](cv/ggm4.png){
 width=100% }
 </center>
 
 <center>
-![](cv/ggm5.jpg){
+![](cv/ggm5.png){
 width=100% }
 </center>
 
 <center>
-![](cv/ggm6.jpg){
+![](cv/ggm6.png){
 width=100% }
 </center>
