@@ -1,3 +1,4 @@
+
 name: "my-website"
 navbar:
   title: "🧠📊🧬Giuseppe G. Miranda"
@@ -25,10 +26,3 @@ output:
     
 output_dir: "."
 
-
-
-
-
-      
-      
-      
