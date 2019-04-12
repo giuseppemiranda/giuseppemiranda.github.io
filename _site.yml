@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "About"
       href: about.html
-    - text: "CV"
+    - text: "Chhh"
       href: cv.html
   right:
     - icon: fa-envelope fa-lg
