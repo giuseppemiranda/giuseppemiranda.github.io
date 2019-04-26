@@ -29,7 +29,7 @@ library(scales)
 
 <div class="divTableRow">
 <div class="divTableCellLogo">
-<img src="pics/utd.jpg" width="100">
+<img src="pics/utd.jpg" width="150">
 </div>
 <div class="divTableCellInfo"> 
 <B>PhD Student, Cognition and Neuroscience </B> (2015 - Present)
@@ -41,7 +41,7 @@ library(scales)
 
 <div class="divTableRow">
 <div class="divTableCellLogo">
-<img src="pics/ud.jpg" width="100">
+<img src="pics/ud.jpg" width="150">
 </div>
 <div class="divTableCellInfo"> 
 <B>BS, Psychology</B> (2015)
