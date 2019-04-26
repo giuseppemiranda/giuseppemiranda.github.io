@@ -8,7 +8,7 @@ width=50% }
 </center>
 
 
-### About Me
+## About Me
 
 ---
 #### I'm PhD student studying cognitive neuroscience at UT Dallas. I'm interested in human brain aging, brain structure, dopamine, and executive funciton, but also have interests in interventrion research on increasing healthspan via direct methods such as exercise. I'm also interested in data analysis, statistics, and programming/visualizing data in R. 

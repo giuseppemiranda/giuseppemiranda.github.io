@@ -1,32 +1,57 @@
 ---
 title: "CV"
+output: 
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: yes
+      smooth_scroll: yes
 ---
-<center>
-![](cv/ggm1.png){
-width=100% }
-</center>
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(dplyr)
+library(glue)
+library(psych)
+library(scales)
+```
 
-<center>
-![](cv/ggm2.png){
-width=100% }
-</center>
+*Updated on  April 26, 2019*
+<BR><BR>
 
-<center>
-![](cv/ggm3.png){
-width=100% }
-</center>
+## Education
+<div class="divTable">
+<div class="divTableBody">
 
-<center>
-![](cv/ggm4.png){
-width=100% }
-</center>
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<img src="pics/utd.jpg" width="100">
+</div>
+<div class="divTableCellInfo"> 
+<B>PhD Student, Cognition and Neuroscience </B> (2015 - Present)
+<BR> School of Behavioral & Brain Sciences
+<BR> The University of Texas at Dallas
+</div>
+</div>
 
-<center>
-![](cv/ggm5.png){
-width=100% }
-</center>
 
-<center>
-![](cv/ggm6.png){
-width=100% }
-</center>
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<img src="pics/ud.jpg" width="100">
+</div>
+<div class="divTableCellInfo"> 
+<B>BS, Psychology</B> (2015)
+<BR> Minor Biology 
+<BR> Magna Cum Laude, Honors with Distinction
+<BR> University of Dayton
+</div>
+</div>
+
+</div>
+</div>
+
+<BR><BR>

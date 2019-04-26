@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -169,6 +172,101 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -184,9 +282,6 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="about.html">About</a>
-</li>
-<li>
   <a href="cv.html">CV</a>
 </li>
       </ul>
@@ -235,27 +330,37 @@ $(document).ready(function () {
 </div>
 
 
-<center>
-<img src="cv/ggm1.png" style="width:100.0%" />
-</center>
-<center>
-<img src="cv/ggm2.png" style="width:100.0%" />
-</center>
-<center>
-<img src="cv/ggm3.png" style="width:100.0%" />
-</center>
-<center>
-<img src="cv/ggm4.png" style="width:100.0%" />
-</center>
-<center>
-<img src="cv/ggm5.png" style="width:100.0%" />
-</center>
-<center>
-<img src="cv/ggm6.png" style="width:100.0%" />
-</center>
+<hr />
+<p><em>Updated on April 26, 2019</em> <BR><BR></p>
+<div id="education" class="section level2">
+<h2>Education</h2>
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<p><img src="pics/utd.jpg" width="100"></p>
+</div>
+<div class="divTableCellInfo">
+<p><B>PhD Student, Cognition and Neuroscience </B> (2015 - Present) <BR> School of Behavioral &amp; Brain Sciences <BR> The University of Texas at Dallas</p>
+</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<p><img src="pics/ud.jpg" width="100"></p>
+</div>
+<div class="divTableCellInfo">
+<p><B>BS, Psychology</B> (2015) <BR> Minor Biology <BR> Magna Cum Laude, Honors with Distinction <BR> University of Dayton</p>
+</div>
+</div>
+</div>
+</div>
+<p><BR><BR></p>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 

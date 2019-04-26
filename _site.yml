@@ -3,8 +3,6 @@ name: "my-website"
 navbar:
   title: "🧠📊🧬Giuseppe G. Miranda"
   left:
-    - text: "About"
-      href: about.html
     - text: "CV"    
       href: cv.html
   right:
