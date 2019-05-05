@@ -4,17 +4,16 @@
 
 <center>
 ![](ggm2.png){
-width=30% }
+width=50% }
 </center>
 
 
-### About Me
+## About Me
 
 ---
-##### I'm PhD student studying cognitive neuroscience at UT Dallas. I'm interested in human brain aging, brain structure, dopamine, and executive function, but also have interests in intervention research on increasing health span via direct methods such as exercise. I'm also interested in data analysis, statistics, and programming/visualizing data in R. 
+#### I'm PhD student studying cognitive neuroscience at UT Dallas. I'm interested in human brain aging, brain structure, dopamine, and executive funciton, but also have interests in interventrion research on increasing healthspan via direct methods such as exercise. I'm also interested in data analysis, statistics, and programming/visualizing data in R. 
 
-##### I enjoy playing basketball, running, exercising, traveling, painting, cooking, watching my Cleveland sports teams, and spending time with friends and family. 
-
+#### I enjoy playing basketball, running, exercising, traveling, painting, cooking, watching my Cleveland sports teams, and spending time with friends and family. 
 
 
 
