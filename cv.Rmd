@@ -65,14 +65,83 @@ library(scales)
 
 <BR>
 
+# Research Experience
+<div class="divTable">
+<div class="divTableBody">
+
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<img src="pics/utd.jpg" width="150">
+</div>
+<div class="divTableCellInfo"> 
+<B>Graduate Research Assistant </B> (2015 - Present)
+<BR> Kennedy Neuroimaging of Aging and Cognition Lab
+<BR> Center for Vital Longevity
+<BR> The University of Texas at Dallas
+</div>
+</div>
+
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<img src="pics/wpafb.png" width="150">
+</div>
+<div class="divTableCellInfo"> 
+<B>Undergraduate Research Intern/Contractor </B> (2013 - 2015)
+<BR> Air Force Applied Neuroscience Research Lab
+<BR> Wright-Patterson Air Force Base
+</div>
+</div>
+
+
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<img src="pics/ud.jpg" width="150">
+</div>
+<div class="divTableCellInfo"> 
+<B>Undergraduate Research Assistant</B> (2012-2015)
+<BR> Memory, Aesthetics, Attention and Perception Research Lab 
+<BR> College of Arts and Sciences
+<BR> University of Dayton
+</div>
+</div>
+</div>
+</div>
+
+<BR>
+
+# Teaching Experience
+
+in progress
+
+# Certifications 
+
+in progress
+
 # Publications
+
+in progress
 
   * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2019). Fronto-parietal cortical thickness mediates the effect of COMT Val158Met polymorphism on age associated executive function. Neurobiology of Aging, 73, 104-114. https://doi.org/10.1016/j.neurobiolaging.2018.08.027
   * Pongpipat, E. E., Miranda, G. G., & Kmiecik, M. J. (2019). A Practical Extension of
 Introductory Statistics in Psychology using R.
 https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/ 
 
-## Research Posters
+# Poster Presentations
+
+in progress 
 
   * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2018). Cortical thickness mediates( 	the relationship between the DRD2 C957T polymorphism and executive function( 	across the adult lifespan. Poster to be presented at the 2018 Society for( 	Neuroscience Meeting at the San Diego Convention Center, San Diego, CA.
+  
+  
 
+# Relevant Coursework
+
+in progress
+
+# Recognition 
+
+in progress
+
+# Skills
+
+in progress
