@@ -38,6 +38,15 @@ library(scales)
 </div>
 </div>
 
+<div class="divTableRow">
+<div class="divTableCellLogo">
+</div>
+<div class="divTableCellInfo"> 
+<B>MS, Applied Cognition and Neuroscience </B> (2019)
+<BR> School of Behavioral & Brain Sciences
+<BR> The University of Texas at Dallas
+</div>
+</div>
 
 <div class="divTableRow">
 <div class="divTableCellLogo">
