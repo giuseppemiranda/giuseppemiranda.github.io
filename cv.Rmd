@@ -23,7 +23,7 @@ library(scales)
 *Updated on  August 4, 2019*
 <BR><BR>
 
-## Education
+# Education
 <div class="divTable">
 <div class="divTableBody">
 
@@ -59,6 +59,24 @@ library(scales)
 <BR> University of Dayton
 </div>
 </div>
+
+# Publications
+
+  * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2019). Fronto-parietal cortical thickness mediates the effect of COMT Val158Met polymorphism on age associated executive function. Neurobiology of Aging, 73, 104-114. https://doi.org/10.1016/j.neurobiolaging.2018.08.027
+  * Pongpipat, E. E., Miranda, G. G., & Kmiecik, M. J. (2019). A Practical Extension of
+Introductory Statistics in Psychology using R.
+https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/ 
+
+
+
+## part 3
+
+
+
+
+
+
+
 
 </div>
 </div>
