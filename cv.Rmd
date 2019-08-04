@@ -111,7 +111,26 @@ library(scales)
 
 # Teaching Experience
 
-in progress
+<div class="divTableRow">
+<div class="divTableCellLogo">
+</div>
+<div class="divTableCellInfo"> 
+<B>Graduate Teaching Assistant</B> (2015-present)
+<BR> University of Texas at Dallas 
+</div>
+</div>
+  * First Year Seminar (Fall 2015)
+    * Dr. Theodore Price, Theodore.Price@utdallas.edu
+  * Social and Personality Development (Spring 2016 & Spring 2017)
+    * Dr. Dawn Brinkley
+  *	Experimental Projects in Psychology (Fall 2016)
+    * Dr. Linda Drew
+  * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019)
+    * Dr. Kristen Kennedy
+  * Introduction to Neuroscience (Fall 2018)
+    * Dr. Rukhsana Sultana
+  * Introduction to Psychology (Summer 2019)
+    * Dr. Salena Brody
 
 # Certifications 
 
