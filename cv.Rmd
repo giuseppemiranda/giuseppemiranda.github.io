@@ -120,17 +120,18 @@ library(scales)
 </div>
 </div>
   * First Year Seminar (Fall 2015)
-    * Dr. Theodore Price, Theodore.Price@utdallas.edu
+    * Dr. Theodore Price, theodore.price@utdallas.edu
+    * Dr. Christa McIntyre christa.mcintyre@utdallas.edu
   * Social and Personality Development (Spring 2016 & Spring 2017)
-    * Dr. Dawn Brinkley
+    * Dr. Dawn Brinkley, dyb012000@utdallas.edu
   *	Experimental Projects in Psychology (Fall 2016)
-    * Dr. Linda Drew
+    * Dr. Linda Drew, linda.drew@utdallas.edu
   * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019)
-    * Dr. Kristen Kennedy
+    * Dr. Kristen Kennedy, kristen.kennedy1@utdallas.edu
   * Introduction to Neuroscience (Fall 2018)
-    * Dr. Rukhsana Sultana
+    * Dr. Rukhsana Sultana, rukhsana.sultana@utdallas.edu
   * Introduction to Psychology (Summer 2019)
-    * Dr. Salena Brody
+    * Dr. Salena Brody, smb051000@utdallas.edu
 
 # Certifications 
 
