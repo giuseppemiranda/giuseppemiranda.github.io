@@ -4,7 +4,7 @@ output:
   html_document:
     toc: yes
     toc_depth: 3
-    toc_float:
+    toc_float: 
       collapsed: yes
       smooth_scroll: yes
 ---
@@ -24,6 +24,7 @@ library(scales)
 <BR><BR>
 
 # Education
+
 <div class="divTable">
 <div class="divTableBody">
 
@@ -59,6 +60,10 @@ library(scales)
 <BR> University of Dayton
 </div>
 </div>
+</div>
+</div>
+
+<BR>
 
 # Publications
 
@@ -67,18 +72,7 @@ library(scales)
 Introductory Statistics in Psychology using R.
 https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/ 
 
+## Research Posters
 
+  * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2018). Cortical thickness mediates( 	the relationship between the DRD2 C957T polymorphism and executive function( 	across the adult lifespan. Poster to be presented at the 2018 Society for( 	Neuroscience Meeting at the San Diego Convention Center, San Diego, CA.
 
-## part 3
-
-
-
-
-
-
-
-
-</div>
-</div>
-
-<BR><BR>
