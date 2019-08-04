@@ -3,17 +3,20 @@
 
 
 <center>
-![](ggm2.png){
+![](ggm4.png){
 width=50% }
 </center>
 
 
-## About Me
+## Hello!
 
 ---
-#### I'm PhD student studying cognitive neuroscience at UT Dallas. I'm interested in human brain aging, brain structure, dopamine, and executive funciton, but also have interests in interventrion research on increasing healthspan via direct methods such as exercise. I'm also interested in data analysis, statistics, and programming/visualizing data in R. 
 
-#### I enjoy playing basketball, running, exercising, traveling, painting, cooking, watching my Cleveland sports teams, and spending time with friends and family. 
+#### I'm Giuseppe, PhD student in cognitive neuroscience at UT Dallas. I study the role of dopamine and brain structure in aging and cognitive performance. I'm also interested in how we can improve our healthspan and quality of life as we age, especially via exercise and learning new skills. 
+
+#### I enjoy data analysis and statistics, especially when using R for my everyday lab work along with my personal interest in financial data.
+
+#### I like to write, play basketball, run, lift, travel, paint, cook, and watch my Cleveland sports teams. I also love spending time with friends and family. 
 
 
 
