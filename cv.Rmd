@@ -144,8 +144,9 @@ library(scales)
 <BR>
 
 # Skills
-
-in progress
+  * I am a passionate team leader with great time management and communication skills, and I work very well with others
+  * I write well and have extensive teaching and research experience 
+  * I am proficient in R and SPSS for data analysis and data visualization
 
 <BR>
 
@@ -196,7 +197,7 @@ https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/
 #### Cognition and Neuroscience (The University of Texas at Dallas)
   * Cognitive Science, Functional Neuroanatomy, Neural Correlates of Human Cognition: Lesion-Deficit Models, Genes Brain and Behavior, Cognitive Neuroscience of Human Memory, Forensic Neuroscience, Research Methods I, Research Methods II, Advanced Research Methods, Advanced Research Methods: Data Analysis Using R
 
-#### Psychology (The Universtiy of Dayton)
+#### Psychology (The University of Dayton)
   * Introductory Psychology, Statistics, Experiential Psychology, Abnormal Psychology, Child Psychology, Health Psychology, Psychology of Perception, Cognitive Psychology, Personality Psychology, Current Implications of Drug Dependency, Physiological Psychology, Independent Study of Psychology, Psychology of Adult Development and Aging
 
 #### Mathematics and Other Sciences (The University of Dayton)
