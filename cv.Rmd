@@ -134,14 +134,20 @@ library(scales)
   * Introduction to Psychology (Summer 2019)
     * Dr. Salena Brody
 
+<BR>
+
 # Certifications 
 
   * Graduate Teaching Certificate
     * Awarded by The University of Texas at Dallas (2018)
     
+<BR>
+
 # Skills
 
 in progress
+
+<BR>
 
 # Publications
 
@@ -151,9 +157,11 @@ in progress
 Introductory Statistics in Psychology using R.
 https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/ 
 
+<BR>
+
 # Poster Presentations
 
-  * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2018). Cortical thickness mediates the relationship between the DRD2 C957T polymorphism and executive function across the adult lifespan. Poster to be presented at the 2018 Society for Neuroscience Meeting at the San Diego Convention Center, San Diego, CA.
+  * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2018). Cortical thickness mediates the relationship between the DRD2 C957T polymorphism and executive function across the adult lifespan. Poster presented at the 2018 Society for Neuroscience Meeting at the San Diego Convention Center, San Diego, CA.
 
   * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2017). Frontal-parietal cortical thickness mediates the relationship between COMT Val158Met polymorphism and executive function. Poster presented at UT Dallas 2017 Cognition and Neuroscience Annual Retreat at the Dallas Arboretum, Dallas, TX.
 
@@ -181,11 +189,31 @@ https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/
 
   * Davis, S.T., Kunz, B. J., Barnas, A., Adamcik, A. M., Devlin, C. E., Janosko, L. A., Gammarino, E.G., & Miranda, G. G. (April, 2012). Measuring spatial intelligence and memory for location in athletes. Poster Presented at the 23rd Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH.
 
+<BR>
 
 # Relevant Coursework
 
-in progress
+#### Cognition and Neuroscience (The University of Texas at Dallas)
+  * Cognitive Science, Functional Neuroanatomy, Neural Correlates of Human Cognition: Lesion-Deficit Models, Genes Brain and Behavior, Cognitive Neuroscience of Human Memory, Forensic Neuroscience, Research Methods I, Research Methods II, Advanced Research Methods, Advanced Research Methods: Data Analysis Using R
+
+#### Psychology (The Universtiy of Dayton)
+  * Introductory Psychology, Statistics, Experiential Psychology, Abnormal Psychology, Child Psychology, Health Psychology, Psychology of Perception, Cognitive Psychology, Personality Psychology, Current Implications of Drug Dependency, Physiological Psychology, Independent Study of Psychology, Psychology of Adult Development and Aging
+
+#### Mathematics and Other Sciences (The University of Dayton)
+  * Calculus I & II, Biology Concepts I & II w/ Labs, Marine Biology w/ Lab, Ecology, Genetics, Sustainability, Entomology, SAS Programming
+
+#### Supplemental Education (DataCamp Courses):
+  * Introduction to the Tidyverse (R), Reporting with R Markdown (R)
+
+<BR>
 
 # Recognition 
 
-in progress
+  * Charles E. Kimble Award of Excellence for Outstanding Research in Psychology (2015)
+  * Honors with Distinction Diploma (2015)
+  * Graduated Magna Cum Laude (2015)
+  * Selected as ASI Psychology Mentor for Incoming Freshmen Psychology Majors (2015)
+  * International Honors Society in Psychology (2013)
+  * U.S. Patent 8,560,482 B2 for an Avatar-Based Technical Networking System (2013) https://patents.justia.com/patent/8560482 
+	
+
