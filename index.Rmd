@@ -24,7 +24,7 @@ width=50% }
 
 #### I enjoy data analysis and statistics, especially when using R for my everyday lab work along with my personal interest in financial data.
 
-#### I like to write, tavel, run, lift, paint, cook, play basketball, and watch my hometown Cleveland sports teams. I also love spending time with friends and family. 
+#### I like to write, travel, exercise, paint, play basketball, and watch my hometown Cleveland sports teams. I also love spending time with friends and family. 
 
 
 
