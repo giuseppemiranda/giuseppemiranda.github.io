@@ -156,7 +156,7 @@ library(scales)
   
   * Pongpipat, E. E., Miranda, G. G., & Kmiecik, M. J. (2019). A Practical Extension of
 Introductory Statistics in Psychology using R.
-https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/ 
+https://rpsystats.com/
 
 <BR>
 
