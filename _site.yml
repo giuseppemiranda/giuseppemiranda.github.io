@@ -19,7 +19,7 @@ navbar:
       
 output:
   html_document:
-    theme: yeti
+    theme: journal
     lib_dir: site_lib
     
 output_dir: "."
