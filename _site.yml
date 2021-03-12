@@ -2,7 +2,7 @@
 name: "my-website"
 navbar:
   title: "📊🤝🧠Giuseppe G. Miranda"
-  left:
+  left: 
     - text: "CV"    
       href: cv.html
   right:
@@ -11,7 +11,7 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/giuseppe-miranda-48331620/
     - icon: fa-reddit-alien fa-lg
-      href: https://www.reddit.com/user/gsepg93/
+      href: https://www.reddit.com/user/gsepg93/upvoted/
     - icon: fa-newspaper-o fa-lg
       href: https://www.researchgate.net/profile/Giuseppe_Miranda
       
