@@ -1,9 +1,9 @@
 
 name: "my-website"
 navbar:
-  title: "📊🤝🧠  ⠀⠀ Giuseppe G. Miranda"
+  title: "📊🤝🧠⠀Giuseppe G. Miranda"
   left: 
-    - text: "RESUME"
+    - text: "⠀⠀⠀RESUME⠀⠀⠀"
       href: resume.html
   right:
     - icon: fa-envelope fa-lg
