@@ -20,12 +20,13 @@ width=50% }
 
 ---
 
-#### I'm Giuseppe, PhD student in the cognition and neuroscience program at UT Dallas. I study the role of dopamine and brain structure in aging and cognitive performance. I'm also interested in how we can improve our healthspan and quality of life as we age, especially via exercise and learning new skills. 
+#### Hello! I’m Giuseppe. I am a PhD student in the cognition and neuroscience program at UT Dallas. I study the role of dopamine, brain structure and lifestyle factors in aging and cognitive performance. I’m also interested in how we can improve our healthspan and quality of life as we age.
 
-#### I enjoy data analysis and statistics, especially when using R for my everyday lab work along with my personal interest in financial data.
+#### I’m very passionate about my work and my hobbies, and I love to learn new skills.
 
-#### I like to write, travel, exercise, paint, play basketball, and watch my hometown Cleveland sports teams. I also love spending time with friends and family. 
+#### I enjoy data analysis and statistics, especially when using R for my everyday lab work along with my personal interest in financial data. 
 
+#### I like to travel, study languages, research investment opportunities, exercise, paint, read, play basketball, and watch my hometown Cleveland sports teams. I also love spending time with my family and friends. 
 
 
 
