@@ -3,7 +3,7 @@ name: "my-website"
 navbar:
   title: "📊🤝🧠Giuseppe G. Miranda"
   left: 
-    - text: "CV"    
+    - text: "RESUME"    
       href: cv.html
   right:
     - icon: fa-envelope fa-lg
