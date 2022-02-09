@@ -1,5 +1,5 @@
 ---
-title: "Giuseppe G. Miranda"
+title: "Giuseppe Giovanni Miranda"
 output: 
   html_document:
     toc: yes
