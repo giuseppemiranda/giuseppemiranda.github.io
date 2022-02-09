@@ -1,7 +1,7 @@
 
 name: "my-website"
 navbar:
-  title: "📊🤝🧠 Giuseppe G. Miranda"
+  title: "📊🤝🧠Giuseppe G. Miranda"
   left: 
     - text: "RESUME"
       href: resume.html
