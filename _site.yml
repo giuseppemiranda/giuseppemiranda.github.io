@@ -9,11 +9,14 @@ navbar:
     - icon: fa-envelope fa-lg
       href: email.html
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/giuseppe-miranda-48331620/
-    - icon: fa-reddit-alien fa-lg
-      href: https://old.reddit.com/user/gsepg93/upvoted/
-    - icon: fa-newspaper-o fa-lg
+      href: https://www.linkedin.com/in/giuseppe-miranda/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/ggmiranda27
+    - icon: fab fa-researchgate fa-lg
       href: https://www.researchgate.net/profile/Giuseppe_Miranda
+    - icon: fab fa-ethereum fa-lg
+      href: https://www.giuseppemiranda.eth.xyz
+      
       
 output:
   html_document:
