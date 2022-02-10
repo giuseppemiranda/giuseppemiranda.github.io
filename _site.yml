@@ -1,9 +1,9 @@
 
 name: "my-website"
 navbar:
-  title: "📊🤝🧠Giuseppe Giovanni Miranda"
+  title: "📊🤝🧠 Giuseppe G. Miranda"
   left: 
-    - text: "my cv"
+    - text: "CV"
       href: resume.html
   right:
     - icon: fa-envelope fa-lg
