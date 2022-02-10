@@ -3,4 +3,4 @@ title: "Email"
 ---
 
 
-#### ggmiranda@protonmail.com
+## ggmiranda@protonmail.com
