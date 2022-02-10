@@ -15,7 +15,7 @@ navbar:
     - icon: fab fa-researchgate fa-lg
       href: https://www.researchgate.net/profile/Giuseppe_Miranda
     - icon: fab fa-ethereum fa-lg
-      href: https://www.giuseppemiranda.eth.xyz
+      href: eth.html
       
       
 output:
