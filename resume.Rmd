@@ -120,22 +120,21 @@ library(scales)
 <BR> University of Texas at Dallas 
 </div>
 </div>
-  * First Year Seminar (Fall 2015)
-    * Dr. Theodore Price
-    * Dr. Christa McIntyre
+  * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019, & Spring 2020)
+    * Dr. Kristen Kennedy
+  * Abnormal Psychology (Fall 2019)
+    * Dr. Mark Powers
+  * Introduction to Psychology (Summer 2019)
+    * Dr. Salena Brody
+  * Introduction to Neuroscience (Fall 2018)
+    * Dr. Rukhsana Sultana
   * Social and Personality Development (Spring 2016 & Spring 2017)
     * Dr. Dawn Brinkley
   *	Experimental Projects in Psychology (Fall 2016)
     * Dr. Linda Drew
-  * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019, Spring 2020)
-    * Dr. Kristen Kennedy
-  * Introduction to Neuroscience (Fall 2018)
-    * Dr. Rukhsana Sultana
-  * Introduction to Psychology (Summer 2019)
-    * Dr. Salena Brody
-  * Abnormal Psychology (Fall 2019)
-    * Dr. Mark Powers
-    
+  * First Year Seminar (Fall 2015)
+    * Dr. Theodore Price
+    * Dr. Christa McIntyre
 
 <BR>
 
@@ -155,6 +154,8 @@ library(scales)
 
 # Publications
 
+  * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2021). Cortical thickness mediates the relationship between DRD2 C957T polymorphism and executive function across the adult lifespan. Brain Structure and Function, 226(1), 121-136. https://doi.org/10.1007/s00429-020-02169-5
+ 
   * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2019). Fronto-parietal cortical thickness mediates the effect of COMT Val158Met polymorphism on age associated executive function. Neurobiology of Aging, 73, 104-114. https://doi.org/10.1016/j.neurobiolaging.2018.08.027
   
   * Pongpipat, E. E., Miranda, G. G., & Kmiecik, M. J. (2019). A Practical Extension of
@@ -206,13 +207,13 @@ https://rpsystats.com/
 # Relevant Coursework
 
 #### Cognition and Neuroscience (The University of Texas at Dallas)
-  * Cognitive Science, Functional Neuroanatomy, Neural Correlates of Human Cognition: Lesion-Deficit Models, Genes Brain and Behavior, Cognitive Neuroscience of Human Memory, Forensic Neuroscience, Research Methods I, Research Methods II, Advanced Research Methods, Advanced Research Methods: Data Analysis Using R
+  * Cognitive Science, Functional Neuroanatomy, Neural Correlates of Human Cognition: Lesion-Deficit Models, Genes Brain and Behavior, Cognitive Neuroscience of Human Memory, Forensic Neuroscience, Research Methods I, Research Methods II, Advanced Research Methods: Data Analysis Using R, Advanced Research Methods: Longitudinal Structural Equation Modeling
 
 #### Psychology (The University of Dayton)
   * Introductory Psychology, Statistics, Experiential Psychology, Abnormal Psychology, Child Psychology, Health Psychology, Psychology of Perception, Cognitive Psychology, Personality Psychology, Current Implications of Drug Dependency, Physiological Psychology, Independent Study of Psychology, Psychology of Adult Development and Aging
 
 #### Mathematics and Other Sciences (The University of Dayton)
-  * Calculus I & II, Biology Concepts I & II w/ Labs, Marine Biology w/ Lab, Ecology, Genetics, Sustainability, Entomology, SAS Programming
+  * Calculus I & II, Biology Concepts I & II, Marine Biology, Ecology, Genetics, Sustainability, Entomology, SAS Programming
 
 #### Supplemental Education (DataCamp Courses):
   * Introduction to the Tidyverse (R), Reporting with R Markdown (R)
