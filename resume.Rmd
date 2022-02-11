@@ -20,7 +20,7 @@ library(psych)
 library(scales)
 ```
 
-*Updated on  August 4, 2019*
+*Updated on  February 11, 2022*
 <BR><BR>
 
 # Education
@@ -98,7 +98,7 @@ library(scales)
 <img src="pics/ud.jpg" width="150">
 </div>
 <div class="divTableCellInfo"> 
-<B>Undergraduate Research Assistant</B> (2012-2015)
+<B>Undergraduate Research Assistant</B> (2012 - 2015)
 <BR> Memory, Aesthetics, Attention and Perception Research Lab 
 <BR> College of Arts and Sciences
 <BR> University of Dayton
@@ -116,7 +116,7 @@ library(scales)
 <img src="pics/utd.jpg" width="150">
 </div>
 <div class="divTableCellInfo"> 
-<B>Graduate Teaching Assistant</B> (2015-present)
+<B>Graduate Teaching Assistant</B> (2015 - 2020)
 <BR> University of Texas at Dallas 
 </div>
 </div>
@@ -127,12 +127,15 @@ library(scales)
     * Dr. Dawn Brinkley
   *	Experimental Projects in Psychology (Fall 2016)
     * Dr. Linda Drew
-  * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019)
+  * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019, Spring 2020)
     * Dr. Kristen Kennedy
   * Introduction to Neuroscience (Fall 2018)
     * Dr. Rukhsana Sultana
   * Introduction to Psychology (Summer 2019)
     * Dr. Salena Brody
+  * Abnormal Psychology (Fall 2019)
+    * Dr. Mark Powers
+    
 
 <BR>
 
@@ -161,6 +164,14 @@ https://rpsystats.com/
 <BR>
 
 # Poster Presentations
+
+  * Eatrouthu, A., Ortega, A., Horn, M., Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2022).Association of BDNF genotype and neuroticism phenotype on mood and risk for depression in healthy adults across the lifespan. Abstract accepted. Poster was to be presented at the 2022 Dallas Aging & Cognition Conference at the Dallas Marriot City Center, Dallas, TX (Conference cancelled due to COVID-19).
+
+  * Marcano, V., Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2022). Extreem stress or trauma report is associated with poorer age-realted fluid intelligence scores across the adult lifespan. Abstract accepted. Poster was to be presented at the 2022 Dallas Aging & Cognition Conference at the Dallas Marriot City Center, Dallas, TX (Conference cancelled due to COVID-19).
+
+  * Romo, K., Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2022). Self-reported history of extreem stress and trauma associated with lower cognitive flexibility. Abstract accepted. Poster was to be presented at the 2022 Dallas Aging & Cognition Conference at the Dallas Marriot City Center, Dallas, TX (Conference cancelled due to COVID-19).
+
+  * Tayama, Y., Miranda, G. G., Thompson, A. C., Ortega, A., Rodrigue, K. M., & Kennedy, K. M. (2022). Association of genetic influence on telomere length and cognitive aging. Abstract accepted. Poster was to be presented at the 2022 Dallas Aging & Cognition Conference at the Dallas Marriot City Center, Dallas, TX (Conference cancelled due to COVID-19).
 
   * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2018). Cortical thickness mediates the relationship between the DRD2 C957T polymorphism and executive function across the adult lifespan. Poster presented at the 2018 Society for Neuroscience Meeting at the San Diego Convention Center, San Diego, CA.
 
