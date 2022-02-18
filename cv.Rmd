@@ -146,9 +146,14 @@ library(scales)
 <BR>
 
 # Skills
-  * I am a passionate team leader with great time management and communication skills, and I work very well with others
-  * I write well and have extensive teaching and research experience 
-  * I am proficient in R and SPSS for data analysis and data visualization
+  * Creative problem solver
+  * Project management
+  * Time management
+  * Communication
+  * Writing
+  * Teaching
+  * Research 
+  * R and SPSS proficiency: data analysis and data visualization
 
 <BR>
 
