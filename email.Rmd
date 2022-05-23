@@ -1,6 +1,11 @@
 ---
 title: "Email"
 ---
+<br>
 
+## ProtonMail
+# ggmiranda@proton.me
+<br>
 
-## ggmiranda@protonmail.com
+## Gmail
+# ggmiranda27@gmail.com
