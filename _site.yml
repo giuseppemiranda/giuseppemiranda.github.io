@@ -4,6 +4,7 @@ navbar:
   title: "📊🤝🧠 Giuseppe G. Miranda"
   left: 
     - text: "CV"
+      icon: fas fa-id-badge fa-lg
       href: cv.html
   right:
     - icon: fa-envelope fa-lg
