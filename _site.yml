@@ -2,7 +2,7 @@
 name: "my-website"
 navbar:
   title: "📊🤝🧠 Giuseppe G. Miranda"
-  left: 
+  left:
     - text: "CV"
       icon: fas fa-id-badge fa-lg
       href: cv.html
@@ -17,6 +17,7 @@ navbar:
       href: https://www.researchgate.net/profile/Giuseppe_Miranda
     - icon: fab fa-ethereum fa-lg
       href: eth.html
+
       
       
 output:
