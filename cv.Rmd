@@ -147,25 +147,25 @@ library(scales)
 
 # Skills
   * Creative problem solver
-  * Interpreting data
-  * Project & Time management
-  * Communication
+  * Project & time management
+  * Communication & teaching
+  * Outgoing personality
+  * Calm and patient demeanor especially under pressure
   * Writing
-  * Teaching
-  * Research 
+  * Research
+  * Data interpretation and evaluation
   * R and SPSS proficiency: data analysis and data visualization
 
 <BR>
 
 # Publications
 
-  * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2021). Cortical thickness mediates the relationship between DRD2 C957T polymorphism and executive function across the adult lifespan. Brain Structure and Function, 226(1), 121-136. https://doi.org/10.1007/s00429-020-02169-5
+  * **Miranda, G. G.**, Rodrigue, K. M., & Kennedy, K. M. (2021). [Cortical thickness mediates the relationship between DRD2 C957T polymorphism and executive function across the adult lifespan.](https://doi.org/10.1007/s00429-020-02169-5) Brain Structure and Function, 226(1), 121-136.
  
-  * Miranda, G. G., Rodrigue, K. M., & Kennedy, K. M. (2019). Fronto-parietal cortical thickness mediates the effect of COMT Val158Met polymorphism on age associated executive function. Neurobiology of Aging, 73, 104-114. https://doi.org/10.1016/j.neurobiolaging.2018.08.027
+  * **Miranda, G. G.**, Rodrigue, K. M., & Kennedy, K. M. (2019). [Fronto-parietal cortical thickness mediates the effect of COMT Val158Met polymorphism on age associated executive function.](https://doi.org/10.1016/j.neurobiolaging.2018.08.027) Neurobiology of Aging, 73, 104-114.
   
-  * Pongpipat, E. E., Miranda, G. G., & Kmiecik, M. J. (2019). A Practical Extension of
-Introductory Statistics in Psychology using R.
-https://rpsystats.com/
+  * Pongpipat, E. E., **Miranda, G. G.**, & Kmiecik, M. J. (2019). [A Practical Extension of
+Introductory Statistics in Psychology using R.](https://rpsystats.com/)
 
 <BR>
 
@@ -212,16 +212,13 @@ https://rpsystats.com/
 # Relevant Coursework
 
 #### Cognition and Neuroscience (The University of Texas at Dallas)
-  * Cognitive Science, Functional Neuroanatomy, Neural Correlates of Human Cognition: Lesion-Deficit Models, Genes Brain and Behavior, Cognitive Neuroscience of Human Memory, Forensic Neuroscience, Research Methods I, Research Methods II, Advanced Research Methods: Data Analysis Using R, Advanced Research Methods: Longitudinal Structural Equation Modeling
+  * Cognitive Science, Functional Neuroanatomy, Neural Correlates of Human Cognition: Lesion-Deficit Models, Genes Brain and Behavior, Cognitive Neuroscience of Human Memory, Forensic Neuroscience, Research Methods I & II, Advanced Research Methods: Data Analysis Using R & Longitudinal Structural Equation Modeling
 
 #### Psychology (The University of Dayton)
   * Introductory Psychology, Statistics, Experiential Psychology, Abnormal Psychology, Child Psychology, Health Psychology, Psychology of Perception, Cognitive Psychology, Personality Psychology, Current Implications of Drug Dependency, Physiological Psychology, Independent Study of Psychology, Psychology of Adult Development and Aging
 
 #### Mathematics and Other Sciences (The University of Dayton)
-  * Calculus I & II, Biology Concepts I & II, Marine Biology, Ecology, Genetics, Sustainability, Entomology, SAS Programming
-
-#### Supplemental Education (DataCamp Courses):
-  * Introduction to the Tidyverse (R), Reporting with R Markdown (R)
+  * Calculus I & II, Biology Concepts I & II, Genetics
 
 <BR>
 
@@ -232,6 +229,6 @@ https://rpsystats.com/
   * Graduated Magna Cum Laude (2015)
   * Selected as ASI Psychology Mentor for Incoming Freshmen Psychology Majors (2015)
   * International Honors Society in Psychology (2013)
-  * [U.S. Patent 8,560,482 B2 for an Avatar-Based Technical Networking System](https://patents.justia.com/patent/8560482 ) (2013) 
+  * [U.S. Patent 8,560,482 B2](https://patents.justia.com/patent/8560482) for an Avatar-Based Technical Networking System (2013) 
 	
 
