@@ -20,7 +20,7 @@ library(psych)
 library(scales)
 ```
 
-*Updated on  May 23, 2022*
+*Updated on  May 24, 2022*
 <BR><BR>
 
 # Education
@@ -43,6 +43,11 @@ library(scales)
 <div class="divTableCellLogo">
 </div>
 <div class="divTableCellInfo"> 
+
+Proposed Dissertation:
+<BR> Longitudinal Change in Executive Function: Influence of Dopamine, Gray Matter Structure, and Health and Lifestyle Factors
+
+
 <B>MS, Applied Cognition and Neuroscience </B> (2019)
 <BR> School of Behavioral & Brain Sciences
 <BR> The University of Texas at Dallas
@@ -59,6 +64,8 @@ library(scales)
 <BR> Magna Cum Laude, Honors with Distinction
 <BR> University of Dayton
 </div>
+Undergraduate Honors Thesis:
+<BR> The Effects of Music-Induced Emotions on the Cued Recall of Emotionally Equivalent Stories
 </div>
 </div>
 </div>
