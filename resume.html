@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Giuseppe G. Miranda</title>
+
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">📊🤝🧠 Giuseppe G. Miranda</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="resume.html">
+    <span class="fas fa-id-badge fa-lg"></span>
+     
+    Resume
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="email.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/giuseppe-miranda/">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/ggmiranda27">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.researchgate.net/profile/Giuseppe_Miranda">
+    <span class="fab fa-researchgate fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="eth.html">
+    <span class="fab fa-ethereum fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Giuseppe G. Miranda</h1>
+
+</div>
+
+
+<hr />
+<p><em>Updated on May 24, 2022</em> <BR><BR></p>
+<div id="education" class="section level1">
+<h1>Education</h1>
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<p><img src="pics/utd.jpg" width="150"></p>
+</div>
+<div class="divTableCellInfo">
+<p><B>PhD Candidate, Cognition and Neuroscience </B> (2015 - Present) <BR> School of Behavioral &amp; Brain Sciences <BR> The University of Texas at Dallas</p>
+</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCellLogo">
+
+</div>
+<div class="divTableCellInfo">
+<p>Proposed Dissertation: <BR> Longitudinal Change in Executive Function: Influence of Dopamine, Gray Matter Structure, and Health and Lifestyle Factors</p>
+<p><B>MS, Applied Cognition and Neuroscience </B> (2019) <BR> School of Behavioral &amp; Brain Sciences <BR> The University of Texas at Dallas</p>
+</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<p><img src="pics/ud.jpg" width="150"></p>
+</div>
+<div class="divTableCellInfo">
+<p><B>BS, Psychology</B> (2015) <BR> Minor Biology <BR> Magna Cum Laude, Honors with Distinction <BR> University of Dayton</p>
+</div>
+<p>Undergraduate Honors Thesis: <BR> The Effects of Music-Induced Emotions on the Cued Recall of Emotionally Equivalent Stories</p>
+</div>
+</div>
+</div>
+<p><BR></p>
+</div>
+<div id="research-experience" class="section level1">
+<h1>Research Experience</h1>
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<p><img src="pics/utd.jpg" width="150"></p>
+</div>
+<div class="divTableCellInfo">
+<p><B>Graduate Research Assistant </B> (2015 - Present) <BR> Kennedy Neuroimaging of Aging and Cognition Lab <BR> Center for Vital Longevity <BR> The University of Texas at Dallas</p>
+</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<p><img src="pics/wpafb.png" width="150"></p>
+</div>
+<div class="divTableCellInfo">
+<p><B>Undergraduate Research Intern/Contractor </B> (2013 - 2015) <BR> Air Force Applied Neuroscience Research Lab <BR> Wright-Patterson Air Force Base</p>
+</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<p><img src="pics/ud.jpg" width="150"></p>
+</div>
+<div class="divTableCellInfo">
+<p><B>Undergraduate Research Assistant</B> (2012 - 2015) <BR> Memory, Aesthetics, Attention and Perception Research Lab <BR> College of Arts and Sciences <BR> University of Dayton</p>
+</div>
+</div>
+</div>
+</div>
+<p><BR></p>
+</div>
+<div id="teaching-experience" class="section level1">
+<h1>Teaching Experience</h1>
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<p><img src="pics/utd.jpg" width="150"></p>
+</div>
+<div class="divTableCellInfo">
+<p><B>Graduate Teaching Assistant</B> (2015 - 2020) <BR> University of Texas at Dallas</p>
+</div>
+</div>
+<ul>
+<li>Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019, &amp; Spring 2020)
+<ul>
+<li><a href="https://bbs.utdallas.edu/faculty/detail.php?i=1061">Dr. Kristen Kennedy</a></li>
+</ul></li>
+<li>Abnormal Psychology (Fall 2019)
+<ul>
+<li><a href="https://www.bswhealth.med/research/Pages/institutes-and-centers/trauma-research-center/mark-powers.aspx">Dr. Mark Powers</a></li>
+</ul></li>
+<li>Introduction to Psychology (Summer 2019)
+<ul>
+<li><a href="https://bbs.utdallas.edu/faculty/detail.php?i=2020">Dr. Salena Brody</a></li>
+</ul></li>
+<li>Introduction to Neuroscience (Fall 2018)
+<ul>
+<li><a href="https://bbs.utdallas.edu/faculty/detail.php?i=2011">Dr. Rukhsana Sultana</a></li>
+</ul></li>
+<li>Social and Personality Development (Spring 2016 &amp; Spring 2017)
+<ul>
+<li><a href="https://www.fcs.uga.edu/people/bio/Dawn-Brinkley">Dr. Dawn Brinkley</a></li>
+</ul></li>
+<li>Experimental Projects in Psychology (Fall 2016)
+<ul>
+<li><a href="https://www.researchgate.net/profile/Linda-Drew">Dr. Linda Drew</a></li>
+</ul></li>
+<li>First Year Seminar (Fall 2015)
+<ul>
+<li><a href="https://bbs.utdallas.edu/faculty/detail.php?i=1211">Dr. Theodore Price</a></li>
+<li><a href="https://bbs.utdallas.edu/faculty/detail.php?i=361">Dr. Christa McIntyre</a></li>
+</ul></li>
+</ul>
+<p><BR></p>
+</div>
+<div id="certifications" class="section level1">
+<h1>Certifications</h1>
+<ul>
+<li><a href="https://ctl.utdallas.edu/programs/teaching-certificates/graduate-teaching-certificate/">Graduate Teaching Certificate</a>
+<ul>
+<li>Awarded by The University of Texas at Dallas (2018)</li>
+</ul></li>
+</ul>
+<p><BR></p>
+</div>
+<div id="skills" class="section level1">
+<h1>Skills</h1>
+<ul>
+<li>Creative problem solver</li>
+<li>Project &amp; time management</li>
+<li>Communication &amp; teaching</li>
+<li>Outgoing personality</li>
+<li>Calm and patient demeanor especially under pressure</li>
+<li>Writing</li>
+<li>Research</li>
+<li>Data interpretation and evaluation</li>
+<li>R and SPSS proficiency: data analysis and data visualization</li>
+</ul>
+<p><BR></p>
+</div>
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<ul>
+<li><p><strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2021). <a href="https://doi.org/10.1007/s00429-020-02169-5">Cortical thickness mediates the relationship between DRD2 C957T polymorphism and executive function across the adult lifespan.</a> Brain Structure and Function, 226(1), 121-136.</p></li>
+<li><p><strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2019). <a href="https://doi.org/10.1016/j.neurobiolaging.2018.08.027">Fronto-parietal cortical thickness mediates the effect of COMT Val158Met polymorphism on age associated executive function.</a> Neurobiology of Aging, 73, 104-114.</p></li>
+<li><p>Pongpipat, E. E., <strong>Miranda, G. G.</strong>, &amp; Kmiecik, M. J. (2019). <a href="https://rpsystats.com/">A Practical Extension of Introductory Statistics in Psychology using R.</a></p></li>
+</ul>
+<p><BR></p>
+</div>
+<div id="poster-presentations" class="section level1">
+<h1>Poster Presentations</h1>
+<ul>
+<li><p>Thompson, A. C., Tayama, Y., <strong>Miranda, G. G.</strong>, Horn, M. M., Ortega, A., Moon, D., Rodrigue, K. M., &amp; Kennedy, K. M. (2022). Association of genetic influence on telomere length and cognitive aging. Poster presented at the 2022 Cognitive Neuroscience Society Meeting at the Hyatt Regency, San Francisco, CA.</p></li>
+<li><p>Eatrouthu, A., Ortega, A., Horn, M., <strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2022). Association of BDNF genotype and neuroticism phenotype on mood and risk for depression in healthy adults across the lifespan. Abstract accepted. Poster was to be presented at the 2022 Dallas Aging &amp; Cognition Conference at the Dallas Marriot City Center, Dallas, TX (Conference cancelled due to COVID-19).</p></li>
+<li><p>Marcano, V., <strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2022). Extreme stress or trauma report is associated with poorer age-related fluid intelligence scores across the adult lifespan. Abstract accepted. Poster was to be presented at the 2022 Dallas Aging &amp; Cognition Conference at the Dallas Marriott City Center, Dallas, TX (Conference cancelled due to COVID-19).</p></li>
+<li><p>Romo, K., <strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2022). Self-reported history of extreme stress and trauma associated with lower cognitive flexibility. Abstract accepted. Poster was to be presented at the 2022 Dallas Aging &amp; Cognition Conference at the Dallas Marriott City Center, Dallas, TX (Conference cancelled due to COVID-19).</p></li>
+<li><p><strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2018). Cortical thickness mediates the relationship between the DRD2 C957T polymorphism and executive function across the adult lifespan. Poster presented at the 2018 Society for Neuroscience Meeting at the San Diego Convention Center, San Diego, CA.</p></li>
+<li><p><strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2017). Frontal-parietal cortical thickness mediates the relationship between COMT Val158Met polymorphism and executive function. Poster presented at UT Dallas 2017 Cognition and Neuroscience Annual Retreat at the Dallas Arboretum, Dallas, TX.</p></li>
+<li><p><strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2017). Common Genetic Dopamine Polymorphisms Show Differential Effects on Aging of Frontal, Parietal, and Cingulate Thickness. Poster presented at the 2017 Dallas Aging &amp; Cognition Conference at the Dallas Marriott City Center, Dallas, TX.</p></li>
+<li><p><strong>Miranda, G. G.</strong>, Rodrigue, K. M., &amp; Kennedy, K. M. (2016). COMT Val158Met polymorphism is associated with thinner cortex in Val carriers in regions of the dopaminergic system. Poster presented at the 2016 Society for Neuroscience Meeting at the San Diego Convention Center, San Diego, CA.</p></li>
+<li><p><strong>Miranda, G. G.</strong> &amp; Davis, S. T. (2015). Does that “Ring a Bell?” The Effects of Music Induced Emotions on Recall of a Story. Poster presented at the 26th Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH.</p></li>
+<li><p>Davis, S. T., Marshall, A. A., Schneider, M., Nelson, M., Fitzharris, A., <strong>Miranda, G. G.</strong>, Ruffolo, E., &amp; Marron, J. (2015). Is Beauty Truly in the Eye of the Beholder? Measures of ocular gaze give insight into preferences for facial beauty. Presented at the Undergraduate Research Conference at Butler University, Indianapolis, IN and at the 26th Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH</p></li>
+<li><p>Davis, S. T., <strong>Miranda, G. G.</strong>, Wolfe, M. E., &amp; Major, R. M. (April, 2014). Does Time “Fly or Drag?” Maybe it Depends on how Long You Think it Takes. Poster presented at the 25th Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH.</p></li>
+<li><p>Davis, S.T., Kunz, B. R., <strong>Miranda, G. G.</strong>, Pytel, L. M., Fitzharris, A. J., &amp; Sander, M. E. (April, 2014). Athletic Superiority for Spatial Intelligence and Memory for Location? Poster presented at the 25th Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH.</p></li>
+<li><p>Satterfield, K. M., Strang, A. J., <strong>Miranda, G. G.</strong>, Clark, C. D., &amp; Funke, G. J. (August, 2013). Team Task Load Shifts Detected Using Nonlinear EEG Coupling Analysis. Poster Presented at the 2013 RH Intern Program Research Summit at WPAFB. Wright-Patterson AFB, OH</p></li>
+<li><p>Davis, S.T., Barnas, A., Sutphin, C., Lang, G., <strong>Miranda, G. G.</strong>, &amp; Essien, N., (April, 2013). Detecting Critical Signals in Sustained Visual Attention Tasks Using Simulated Radar Screens. Poster presented at the 24th Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH.</p></li>
+<li><p>Davis, S. T., Kunz, B. R., Barnas, A., Janosko, L.A., <strong>Miranda, G. G.</strong>, Ellinghausen, L., &amp; Gammarino, E. G., (April, 2013). Spatial Intelligence and Memory for Location in Athletes and Non-Athletes. Poster presented at the 24th Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH.</p></li>
+<li><p>Davis, S.T., Barnas, A., Sutphin, C., Lang, G., <strong>Miranda, G. G.</strong>, &amp; Essien, N., (April, 2013). Effects of Sustained Attention on Auditory Displays, Mental Workload, and Stress. Poster presented at the 24th Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH.</p></li>
+<li><p>Davis, S.T., Kunz, B. J., Barnas, A., Adamcik, A. M., Devlin, C. E., Janosko, L. A., Gammarino, E.G., &amp; <strong>Miranda, G. G.</strong> (April, 2012). Measuring spatial intelligence and memory for location in athletes. Poster Presented at the 23rd Annual Brother Joseph W. Stander Symposium at the University of Dayton, Dayton, OH.</p></li>
+</ul>
+<p><BR></p>
+</div>
+<div id="relevant-coursework" class="section level1">
+<h1>Relevant Coursework</h1>
+<div id="cognition-and-neuroscience-the-university-of-texas-at-dallas" class="section level4">
+<h4>Cognition and Neuroscience (The University of Texas at Dallas)</h4>
+<ul>
+<li>Cognitive Science, Functional Neuroanatomy, Neural Correlates of Human Cognition: Lesion-Deficit Models, Genes Brain and Behavior, Cognitive Neuroscience of Human Memory, Forensic Neuroscience, Research Methods I &amp; II, Advanced Research Methods: Data Analysis Using R &amp; Longitudinal Structural Equation Modeling</li>
+</ul>
+</div>
+<div id="psychology-the-university-of-dayton" class="section level4">
+<h4>Psychology (The University of Dayton)</h4>
+<ul>
+<li>Introductory Psychology, Statistics, Experiential Psychology, Abnormal Psychology, Child Psychology, Health Psychology, Psychology of Perception, Cognitive Psychology, Personality Psychology, Current Implications of Drug Dependency, Physiological Psychology, Independent Study of Psychology, Psychology of Adult Development and Aging</li>
+</ul>
+</div>
+<div id="mathematics-and-other-sciences-the-university-of-dayton" class="section level4">
+<h4>Mathematics and Other Sciences (The University of Dayton)</h4>
+<ul>
+<li>Calculus I &amp; II, Biology Concepts I &amp; II, Genetics</li>
+</ul>
+<p><BR></p>
+</div>
+</div>
+<div id="recognition" class="section level1">
+<h1>Recognition</h1>
+<ul>
+<li>Charles E. Kimble Award of Excellence for Outstanding Research in Psychology (2015)</li>
+<li><a href="https://udayton.edu/honors/thesis/general_information.php">Honors with Distinction Diploma</a> (2015)</li>
+<li>Graduated Magna Cum Laude (2015)</li>
+<li>Selected as ASI Psychology Mentor for Incoming Freshmen Psychology Majors (2015)</li>
+<li>International Honors Society in Psychology (2013)</li>
+<li><a href="https://patents.justia.com/patent/8560482">U.S. Patent 8,560,482 B2</a> for an Avatar-Based Technical Networking System (2013)</li>
+</ul>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
