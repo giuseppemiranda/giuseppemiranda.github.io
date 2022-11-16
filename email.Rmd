@@ -3,12 +3,12 @@ title: "Email"
 ---
 <br>
 
-## Proton Mail
-# ggmiranda@proton.me
-<br>
-
 ## Gmail
 # ggmiranda27@gmail.com
+<br>
+
+## Proton Mail
+# ggmiranda@proton.me
 <br>
 
 ## UT Dallas
