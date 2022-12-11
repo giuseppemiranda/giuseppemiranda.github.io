@@ -20,12 +20,12 @@ width=50% }
 
 ---
 
-### Hello! I’m Giuseppe. I'm a postdoc at the Center for Vital Longevity @ UT Dallas. Here, I study the role of dopamine, brain structure and lifestyle factors in aging and cognitive performance. I have a strong interest in Alzheimer's disease and an interest in how we can improve our healthspan and quality of life as we age.
+#### Hello! I’m Giuseppe. I'm a postdoc at the Center for Vital Longevity @ UT Dallas. Here, I study the role of dopamine, brain structure and lifestyle factors in aging and cognitive performance. I have a strong interest in Alzheimer's disease and an interest in how we can improve our healthspan and quality of life as we age.
 
-### I’m very passionate about my work and my hobbies, and I love to learn new skills.
+#### I’m very passionate about my work and my hobbies, and I love to learn new skills.
 
-### My favorite aspect about my career so far is being able to interact with my collogues on a day-to-day basis: talking science, collaborating on projects, and coming up with new ideas! 
-### I enjoy data analysis and statistics, especially when using R for my everyday work, along with my personal interest in financial data and blockchain tech. 
+#### My favorite aspect about my career so far is being able to interact with my collogues on a day-to-day basis: talking science, collaborating on projects, and coming up with new ideas! 
+#### I enjoy data analysis and statistics, especially when using R for my everyday work, along with my personal interest in financial data and blockchain tech. 
 
-### In my free time, I enjoy traveling with my wife, learning about different cultures, and studying languages. Exercising is an important part of my everyday routine, and I also enjoy swimming and playing basketball. Some of my many hobbies include leatherworking, game console modding, painting, drawing, reading, and watching my hometown Cleveland sports teams. I also love spending time with my family and friends. 
+#### In my free time, I enjoy traveling with my wife, learning about different cultures, and studying languages. Exercising is an important part of my everyday routine, and I also enjoy swimming and playing basketball. Some of my many hobbies include leatherworking, game console modding, painting, drawing, reading, and watching my hometown Cleveland sports teams. I also love spending time with my family and friends. 
 
