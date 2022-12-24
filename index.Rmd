@@ -10,7 +10,7 @@ h1.title {
 ---
 
 <center>
-![](ggm8.png){
+![](ggm6.png){
 width=50% }
 </center>
 
