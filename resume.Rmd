@@ -20,7 +20,7 @@ library(psych)
 library(scales)
 ```
 
-*Updated on  December 22, 2022*
+*Updated on  January 1, 2023*
 <BR>
 
 Passionate, knowledgeable, and self-motivated neuroscientist experienced in aging research. Skilled in delivering scientific information to diverse audiences and building collaborative relationships with scientific thought leaders. Twice-published lead author and experienced presenter. Creative and analytical thinker with a strong scientific acumen and a command of practical statistical methods. Effective and confident communicator who enjoys engaging in impactful conversations while creating and maintaining strong working relationships with colleagues. Willingness and ability to travel extensively and relocate if necessary. Excited to build relationships with both established and rising-star key opinion leaders (KOLs), healthcare professionals (HCPs), and all stakeholders that will provide added value to achieve company strategic objectives. Looking to bring relevant and valuable skills into an industry role as a MSL in a growing pharmaceutical company.
@@ -35,8 +35,18 @@ Passionate, knowledgeable, and self-motivated neuroscientist experienced in agin
 <img src="pics/cvl.png" width="140">
 </div>
 <div class="divTableCellInfo"> 
-<B>Graduate Research and Teaching Assistant </B> (August 2015 – December 2022)
+<B>Postdoctoral Fellow </B> (January 2023 – Present)
 <BR> Center for Vital Longevity
+<BR> The University of Texas at Dallas
+</div>
+</div>
+
+<div class="divTableRow">
+<div class="divTableCellLogo">
+<img src="pics/utd.jpg" width="150">
+</div>
+<div class="divTableCellInfo"> 
+<B>Graduate Research and Teaching Assistant </B> (August 2015 – December 2022)
 <BR> The University of Texas at Dallas
 </div>
 </div>
