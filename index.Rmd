@@ -24,7 +24,7 @@ width=50% }
 
 #### I’m very passionate about my work and my hobbies, and I love to learn new skills.
 
-#### The part of my career that I have enjoyed the most so far is being able to interact with my colleagues on a daily basis: talking science, collaborating on projects, and coming up with new ideas! 
+#### The part of my career that I've enjoyed the most so far is being able to interact with my colleagues on a daily basis: talking science, collaborating on projects, and coming up with new ideas! 
 
 #### I enjoy data analysis and statistics, especially when using R for my everyday work, along with my personal interest in finance.
 
