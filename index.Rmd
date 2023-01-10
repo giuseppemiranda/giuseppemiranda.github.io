@@ -10,8 +10,8 @@ h1.title {
 ---
 
 <center>
-![](ggm6.png){
-width=50% }
+![](ggm11.png){
+width=40% }
 </center>
 
 
