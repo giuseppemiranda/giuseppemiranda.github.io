@@ -17,12 +17,9 @@ navbar:
       href: https://www.researchgate.net/profile/Giuseppe_Miranda
 meta:
   - property: "og:title"
-    content: "📊🤝🧠 Giuseppe G. Miranda, PhD"
-  - property: "og:description"
-    content: "My website"
+    content: "Giuseppe G. Miranda, PhD"
   - property: "og:image"
-    content: "https://example.com/image.jpg"
-      
+    content: "ggm11.png"
       
 output:
   html_document:
