@@ -15,7 +15,13 @@ navbar:
       href: https://twitter.com/ggmiranda27
     - icon: fab fa-researchgate fa-lg
       href: https://www.researchgate.net/profile/Giuseppe_Miranda
-
+meta:
+  - property: "og:title"
+    content: "📊🤝🧠 Giuseppe G. Miranda, PhD"
+  - property: "og:description"
+    content: "My website"
+  - property: "og:image"
+    content: "https://example.com/image.jpg"
       
       
 output:
