@@ -20,7 +20,7 @@ library(psych)
 library(scales)
 ```
 
-*Updated on  January 1, 2023*
+*Updated on  March 6, 2023*
 <BR>
 
 Passionate, knowledgeable, and self-motivated neuroscientist experienced in aging research. Skilled in delivering scientific information to diverse audiences and building collaborative relationships with scientific thought leaders. Twice-published lead author and experienced presenter. Creative and analytical thinker with a strong scientific acumen and a command of practical statistical methods. Effective and confident communicator who enjoys engaging in impactful conversations while creating and maintaining strong working relationships with colleagues. Willingness and ability to travel extensively and relocate if necessary. Excited to build relationships with both established and rising-star key opinion leaders (KOLs), healthcare professionals (HCPs), and all stakeholders that will provide added value to achieve company strategic objectives. Looking to bring relevant and valuable skills into an industry role as a MSL in a growing pharmaceutical company.
@@ -127,20 +127,20 @@ Undergraduate Honors Thesis:
 </div>
 </div>
   * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019, & Spring 2020)
-    * [Dr. Kristen Kennedy](https://bbs.utdallas.edu/faculty/detail.php?i=1061)
+    * [Dr. Kristen Kennedy](https://profiles.utdallas.edu/kristen.kennedy1)
   * Abnormal Psychology (Fall 2019)
     * [Dr. Mark Powers](https://www.bswhealth.med/research/Pages/institutes-and-centers/trauma-research-center/mark-powers.aspx)
   * Introduction to Psychology (Summer 2019)
-    * [Dr. Salena Brody](https://bbs.utdallas.edu/faculty/detail.php?i=2020)
+    * [Dr. Salena Brody](https://profiles.utdallas.edu/salena.brody)
   * Introduction to Neuroscience (Fall 2018)
-    * [Dr. Rukhsana Sultana](https://bbs.utdallas.edu/faculty/detail.php?i=2011)
+    * [Dr. Rukhsana Sultana](https://profiles.utdallas.edu/rukhsana.sultana)
   * Social and Personality Development (Spring 2016 & Spring 2017)
     * [Dr. Dawn Brinkley](https://www.fcs.uga.edu/people/bio/Dawn-Brinkley)
   *	Experimental Projects in Psychology (Fall 2016)
     * [Dr. Linda Drew](https://www.researchgate.net/profile/Linda-Drew)
   * First Year Seminar (Fall 2015)
-    * [Dr. Theodore Price](https://bbs.utdallas.edu/faculty/detail.php?i=1211)
-    * [Dr. Christa McIntyre](https://bbs.utdallas.edu/faculty/detail.php?i=361)
+    * [Dr. Theodore Price](https://profiles.utdallas.edu/theodore.price)
+    * [Dr. Christa McIntyre](https://profiles.utdallas.edu/christa.mcintyre)
 
 <BR>
 
@@ -198,6 +198,12 @@ Introductory Statistics in Psychology using R.](https://rpsystats.com/)
 <BR>
 
 # Conference Presentations
+
+  * **Miranda, G. G.**, Pongpipat, E. E., Gonen, C., Rodrigue, K. M., & Kennedy, K. M. (2023). Dopaminergic genetic influence on longitudinal change in cortical thickness and age-associated executive function.
+
+  * Edwards, V. M., Pongpipat, E. E., **Miranda, G. G.**, Rodrigue, K. M., & Kennedy, K. M. (2023). Four-year age-related cortical thinning is modified synergistically by inflammation, beta-amyloid, and hypertension.
+
+  * Horn, M. H., Kennedy, K. M., **Miranda, G. G.**, Pongpipat, E. E., & Rodrigue, K. M. (2023). Baseline subjective memory complaints predict four-year cortical thinning.
 
   * Thompson, A. C., Tayama, Y., **Miranda, G. G.**, Horn, M. M., Ortega, A., Moon, D., Rodrigue, K. M., & Kennedy, K. M. (2022). Association of genetic influence on telomere length and cognitive aging.
 
