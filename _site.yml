@@ -10,7 +10,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: email.html
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/giuseppe-miranda/
+      href: (https://www.linkedin.com/in/giuseppe-miranda/){target="_blank"}
     - icon: fa-twitter fa-lg
       href: https://twitter.com/ggmiranda27
     - icon: fab fa-researchgate fa-lg
