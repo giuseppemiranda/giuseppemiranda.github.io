@@ -129,24 +129,24 @@ Undergraduate Honors Thesis:
   * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019, & Spring 2020)
     * [Dr. Kristen Kennedy](https://profiles.utdallas.edu/kristen.kennedy1){target="_blank"}
   * Abnormal Psychology (Fall 2019)
-    * [Dr. Mark Powers](https://www.bswhealth.med/research/Pages/institutes-and-centers/trauma-research-center/mark-powers.aspx)
+    * [Dr. Mark Powers](https://www.bswhealth.med/research/Pages/institutes-and-centers/trauma-research-center/mark-powers.aspx){target="_blank"}
   * Introduction to Psychology (Summer 2019)
-    * [Dr. Salena Brody](https://profiles.utdallas.edu/salena.brody)
+    * [Dr. Salena Brody](https://profiles.utdallas.edu/salena.brody){target="_blank"}
   * Introduction to Neuroscience (Fall 2018)
-    * [Dr. Rukhsana Sultana](https://profiles.utdallas.edu/rukhsana.sultana)
+    * [Dr. Rukhsana Sultana](https://profiles.utdallas.edu/rukhsana.sultana){target="_blank"}
   * Social and Personality Development (Spring 2016 & Spring 2017)
-    * [Dr. Dawn Brinkley](https://www.fcs.uga.edu/people/bio/Dawn-Brinkley)
+    * [Dr. Dawn Brinkley](https://www.fcs.uga.edu/people/bio/Dawn-Brinkley){target="_blank"}
   *	Experimental Projects in Psychology (Fall 2016)
-    * [Dr. Linda Drew](https://www.researchgate.net/profile/Linda-Drew)
+    * [Dr. Linda Drew](https://www.researchgate.net/profile/Linda-Drew){target="_blank"}
   * First Year Seminar (Fall 2015)
-    * [Dr. Theodore Price](https://profiles.utdallas.edu/theodore.price)
-    * [Dr. Christa McIntyre](https://profiles.utdallas.edu/christa.mcintyre)
+    * [Dr. Theodore Price](https://profiles.utdallas.edu/theodore.price){target="_blank"}
+    * [Dr. Christa McIntyre](https://profiles.utdallas.edu/christa.mcintyre){target="_blank"}
 
 <BR>
 
 # Certifications 
 
-  * [Graduate Teaching Certificate](https://ctl.utdallas.edu/programs/teaching-certificates/graduate-teaching-certificate/)
+  * [Graduate Teaching Certificate](https://ctl.utdallas.edu/programs/teaching-certificates/graduate-teaching-certificate/){target="_blank"}
     * Awarded by The University of Texas at Dallas (2018)
     
 <BR>
@@ -167,33 +167,33 @@ Undergraduate Honors Thesis:
 # Recognition & Achievements
 
   * Charles E. Kimble Award of Excellence for Outstanding Research in Psychology (2015)
-  * [Honors with Distinction Diploma](https://udayton.edu/honors/thesis/general_information.php) (2015)
+  * [Honors with Distinction Diploma](https://udayton.edu/honors/thesis/general_information.php){target="_blank"} (2015)
   * Graduated Magna Cum Laude (2015)
   * Selected as ASI Psychology Mentor for Incoming Freshmen Psychology Majors (2015)
   * International Honors Society in Psychology (2013)
-  * [U.S. Patent 8,560,482 B2](https://patents.justia.com/patent/8560482) for an Avatar-Based Technical Networking System (2013) 
+  * [U.S. Patent 8,560,482 B2](https://patents.justia.com/patent/8560482){target="_blank"} for an Avatar-Based Technical Networking System (2013) 
 
 <BR>
 
 # Affiliations
 
-  * [Medical Science Liaison Society](https://themsls.org/) (2022 - Present)
-  * [Society for Neuroscience](https://www.sfn.org/) (2016 - Present)
+  * [Medical Science Liaison Society](https://themsls.org/){target="_blank"} (2022 - Present)
+  * [Society for Neuroscience](https://www.sfn.org/){target="_blank"} (2016 - Present)
 
 <BR>
 
 # Peer-Reviewed Publications
 
-  * **Miranda, G. G.**, Rodrigue, K. M., & Kennedy, K. M. (2021). [Cortical thickness mediates the relationship between DRD2 C957T polymorphism and executive function across the adult lifespan.](https://doi.org/10.1007/s00429-020-02169-5) Brain Structure and Function, 226(1), 121-136.
+  * **Miranda, G. G.**, Rodrigue, K. M., & Kennedy, K. M. (2021). [Cortical thickness mediates the relationship between DRD2 C957T polymorphism and executive function across the adult lifespan.](https://doi.org/10.1007/s00429-020-02169-5){target="_blank"} Brain Structure and Function, 226(1), 121-136.
  
-  * **Miranda, G. G.**, Rodrigue, K. M., & Kennedy, K. M. (2019). [Fronto-parietal cortical thickness mediates the effect of COMT Val158Met polymorphism on age associated executive function.](https://doi.org/10.1016/j.neurobiolaging.2018.08.027) Neurobiology of Aging, 73, 104-114.
+  * **Miranda, G. G.**, Rodrigue, K. M., & Kennedy, K. M. (2019). [Fronto-parietal cortical thickness mediates the effect of COMT Val158Met polymorphism on age associated executive function.](https://doi.org/10.1016/j.neurobiolaging.2018.08.027){target="_blank"} Neurobiology of Aging, 73, 104-114.
   
 <BR>
 
 # Books
 
   * Pongpipat, E. E., **Miranda, G. G.**, & Kmiecik, M. J. (2019). [A Practical Extension of
-Introductory Statistics in Psychology using R.](https://rpsystats.com/)
+Introductory Statistics in Psychology using R.](https://rpsystats.com/){target="_blank"}
 
 <BR>
 
