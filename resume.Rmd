@@ -127,7 +127,7 @@ Undergraduate Honors Thesis:
 </div>
 </div>
   * Functional Neuroanatomy (Fall 2017, Spring 2018, Spring 2019, & Spring 2020)
-    * [Dr. Kristen Kennedy](https://profiles.utdallas.edu/kristen.kennedy1)
+    * [Dr. Kristen Kennedy](https://profiles.utdallas.edu/kristen.kennedy1){target="_blank"}
   * Abnormal Psychology (Fall 2019)
     * [Dr. Mark Powers](https://www.bswhealth.med/research/Pages/institutes-and-centers/trauma-research-center/mark-powers.aspx)
   * Introduction to Psychology (Summer 2019)
