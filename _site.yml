@@ -1,7 +1,7 @@
 
 name: "my-website"
 navbar:
-  title: "📊🤝🧠 Giuseppe G. Miranda, PhD"
+  title: "Giuseppe G. Miranda, PhD"
   left:
     - text: "Resume"
       icon: fas fa-id-badge fa-lg
@@ -18,7 +18,7 @@ navbar:
 
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     lib_dir: site_lib
     
 output_dir: "."

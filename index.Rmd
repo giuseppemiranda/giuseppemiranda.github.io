@@ -20,13 +20,13 @@ width=40% }
 
 ---
 
-#### Hello! I’m Giuseppe. I'm a postdoc at the Center for Vital Longevity @ UT Dallas. Here, I study the role of dopamine and health & lifestyle factors on cognitive and structural brain aging. I have a strong interest in how we can improve our healthspan and quality of life as we age.
+#### Hello! I’m Giuseppe. I'm a postdoctoral research associate at the Center for Vital Longevity @ UT Dallas. I'm the project lead for research on health and dopamine-related longitudinal change in brain structure and cognitive performance. I have a strong interest in how we can improve our healthspan and quality of life as we age.
 
 #### I’m very passionate about my work and my hobbies, and I love to learn new skills.
 
-#### The part of my career that I've enjoyed the most so far is being able to interact with my colleagues on a daily basis: talking science, collaborating on projects, and coming up with new ideas! 
+#### The part of my career I've enjoyed the most is being able to interact with my colleagues on a daily basis: talking science, collaborating on projects, and coming up with new ideas! 
 
 #### I enjoy data analysis and statistics, especially when using R for my everyday work, along with my personal interest in finance.
 
-#### In my free time, I enjoy traveling, learning about different cultures, and studying languages. Exercising is an important part of my everyday routine, and I also enjoy swimming and playing basketball. Some of my hobbies are painting, drawing, 3D printing, and watching my hometown Cleveland sports teams. I also love spending time with my family and friends. 
+#### In my free time, I enjoy traveling, learning about different cultures, and studying languages. Exercising is an important part of my everyday routine, and I also enjoy playing basketball. Some of my hobbies are painting, drawing, 3D printing, and watching my hometown Cleveland sports teams. I also love spending time with my family and friends. 
 

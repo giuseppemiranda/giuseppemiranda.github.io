@@ -20,10 +20,17 @@ library(psych)
 library(scales)
 ```
 
-*Updated on  March 6, 2023*
+*Updated on  June 3, 2023*
 <BR>
 
-Passionate, knowledgeable, and self-motivated neuroscientist experienced in aging research. Skilled in delivering scientific information to diverse audiences and building collaborative relationships with scientific thought leaders. Twice-published lead author and experienced presenter. Creative and analytical thinker with a strong scientific acumen and a command of practical statistical methods. Effective and confident communicator who enjoys engaging in impactful conversations while creating and maintaining strong working relationships with colleagues. Willingness and ability to travel extensively and relocate if necessary. Excited to build relationships with both established and rising-star key opinion leaders (KOLs), healthcare professionals (HCPs), and all stakeholders that will provide added value to achieve company strategic objectives. Looking to bring relevant and valuable skills into an industry role as a MSL in a growing pharmaceutical company.
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate, knowledgeable, and self-motivated neuroscientist experienced in aging research. 
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skilled in delivering scientific information to diverse audiences and building collaborative relationships with scientific thought leaders. 
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creative and analytical thinker with a strong scientific acumen and a command of practical statistical methods. 
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective and confident communicator who enjoys engaging in impactful conversations while creating and maintaining strong working relationships with colleagues. 
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Willingness and ability to travel extensively and relocate if necessary. 
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excited to build relationships with both established and rising-star key opinion leaders (KOLs), healthcare professionals (HCPs), and all stakeholders that will provide added value to achieve company strategic objectives. 
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team player looking to bring relevant skills into an industry role as an MSL with a pharmaceutical company devoted to improving patients’ lives. 
+
 
 # Professional Experience
 
@@ -35,7 +42,7 @@ Passionate, knowledgeable, and self-motivated neuroscientist experienced in agin
 <img src="pics/cvl.png" width="140">
 </div>
 <div class="divTableCellInfo"> 
-<B>Postdoctoral Fellow </B> (January 2023 – Present)
+<B>Postdoctoral Research Associate & Project Lead </B> (January 2023 – Present)
 <BR> Center for Vital Longevity
 <BR> The University of Texas at Dallas
 </div>
@@ -46,7 +53,7 @@ Passionate, knowledgeable, and self-motivated neuroscientist experienced in agin
 <img src="pics/utd.jpg" width="150">
 </div>
 <div class="divTableCellInfo"> 
-<B>Graduate Research and Teaching Assistant </B> (August 2015 – December 2022)
+<B>Research & Teaching Associate </B> (August 2015 – December 2022)
 <BR> The University of Texas at Dallas
 </div>
 </div>
@@ -56,7 +63,7 @@ Passionate, knowledgeable, and self-motivated neuroscientist experienced in agin
 <img src="pics/wpafb.png" width="160">
 </div>
 <div class="divTableCellInfo"> 
-<B>Applied Neuroscience Intern and Contractor</B> (May 2013 - April 2015)
+<B>Research Coordinator & Test Administrator </B> (May 2013 - April 2015)
 <BR> Air Force Applied Neuroscience Research Lab
 <BR> Wright-Patterson Air Force Base
 </div>
@@ -122,7 +129,7 @@ Undergraduate Honors Thesis:
 <img src="pics/utd.jpg" width="150">
 </div>
 <div class="divTableCellInfo"> 
-<B>Graduate Teaching Assistant</B> (August 2015 - May 2020)
+<B>Graduate Teaching Associate </B> (August 2015 - May 2020)
 <BR> University of Texas at Dallas 
 </div>
 </div>
