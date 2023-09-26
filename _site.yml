@@ -11,8 +11,6 @@ navbar:
       href: email.html
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/giuseppe-miranda/
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/ggmiranda27
     - icon: fab fa-researchgate fa-lg
       href: https://www.researchgate.net/profile/Giuseppe_Miranda
 
