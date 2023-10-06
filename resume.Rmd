@@ -20,17 +20,15 @@ library(psych)
 library(scales)
 ```
 
-*Updated on  June 3, 2023*
+*Updated on  October 5, 2023*
 <BR>
 
-<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate, knowledgeable, and self-motivated neuroscientist experienced in aging research. 
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate, knowledgeable, and self-motivated medical science liaison experienced in aging research. 
 <BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skilled in delivering scientific information to diverse audiences and building collaborative relationships with scientific thought leaders. 
 <BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creative and analytical thinker with a strong scientific acumen and a command of practical statistical methods. 
 <BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective and confident communicator who enjoys engaging in impactful conversations while creating and maintaining strong working relationships with colleagues. 
-<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Willingness and ability to travel extensively and relocate if necessary. 
-<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excited to build relationships with both established and rising-star key opinion leaders (KOLs), healthcare professionals (HCPs), and all stakeholders that will provide added value to achieve company strategic objectives. 
-<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team player looking to bring relevant skills into an industry role as an MSL with a pharmaceutical company devoted to improving patients’ lives. 
-
+<BR> ♦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team player devoted to improving patients’ lives. 
+<BR>
 
 # Professional Experience
 
@@ -39,10 +37,20 @@ library(scales)
 
 <div class="divTableRow">
 <div class="divTableCellLogo">
+<img src="pics/bioc.png" width="250">
+</div>
+<div class="divTableCellInfo"> 
+<B>Medical Science Liaison </B> (September 2023 – Present)
+<BR> BioCryst Pharmaceuticals
+</div>
+</div>
+
+<div class="divTableRow">
+<div class="divTableCellLogo">
 <img src="pics/cvl.png" width="140">
 </div>
 <div class="divTableCellInfo"> 
-<B>Postdoctoral Research Associate & Project Lead </B> (January 2023 – Present)
+<B>Postdoctoral Research Associate & Project Lead </B> (January 2023 – September 2023)
 <BR> Center for Vital Longevity
 <BR> The University of Texas at Dallas
 </div>
