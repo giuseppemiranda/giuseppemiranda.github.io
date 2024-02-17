@@ -10,7 +10,3 @@ title: "Email"
 ## Proton Mail
 # ggmiranda@proton.me
 <br>
-
-## UT Dallas
-# giuseppe.miranda@utdallas.edu
-<br>
